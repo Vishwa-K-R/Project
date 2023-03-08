@@ -1,0 +1,30 @@
+.nav{
+    background-color:whitesmoke;
+    display: flex;
+    height: 80px;
+
+}
+#title{
+    color:black;
+    padding-top: 20px;
+}
+h1{
+    color: rgb(14, 14, 14);
+    margin-left: 50px;
+    
+}
+.nav-link{
+    justify-content: space-around;
+    display: flex;
+    position: absolute;
+    right: 50px;
+    align-items: center;
+    top:30px;
+    
+}
+button{
+    background-color: whitesmoke;
+    color:black;
+    border: rgb(19, 170, 19);
+    cursor: pointer;
+}
